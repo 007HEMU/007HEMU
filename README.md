@@ -1,7 +1,7 @@
 -  Hi, I’m @007HEMU
--  I’m interested in AIML.
+-  I’m interested in AIML
 -  I’m currently learning AIML
--  Reach me @hemanthhr2004@gmail.com...
+-  Reach me @hemanthhr2004@gmail.com
 
 <!---
 007HEMU/007HEMU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
